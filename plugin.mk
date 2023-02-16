@@ -43,7 +43,7 @@ endif
 ifdef ARCH_WIN
 	TARGET := plugin.dll
 	LDFLAGS += -static-libstdc++
-	RACK_USER_DIR ?= $(USERPROFILE)/OneDrive/Documents/Rack2
+	RACK_USER_DIR ?= $(USERPROFILE)/OneDrive - Axign b.v/Documenten/Rack2
 endif
 
 
